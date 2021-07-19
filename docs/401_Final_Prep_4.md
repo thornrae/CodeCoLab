@@ -22,7 +22,9 @@ User Story sentence
 ## Acceptance Tests
 
 Provide a link to your project management board that contains your user stories in your project Readme.
-Software Requirements
+
+## Software Requirements
+
 Using the Software Requirements Document, create a new file within your main GH repo named requirements.md. Include in this doc the required information for your software reqs for your project as a whole.
 
 ## Domain Modeling
@@ -47,3 +49,5 @@ Brief introduction to Domain Modeling
   The required data type.
   An indication if this collection is associated with another collection.
   Include this diagram in your readme, accompanied by an explanation of each data model and it’s responsibility in the application.
+
+[Bark to README.MD](../README.MD)

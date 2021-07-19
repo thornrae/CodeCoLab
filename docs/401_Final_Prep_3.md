@@ -11,3 +11,5 @@ Complete the following:
   PM Tools
 - Make sure everyone has access and permissions to the PM tooling you are using. Make any appropriate or required associations or connections between Github and your tool.
 - Our team is using Trello for this purpose. An email invitation was sent for team members to join. A second option for joining was sent via a link to join the Trello board.The appropriate connection/association to GitHub will be created NLT Monday 7/19.
+
+[Back to README.MD](../README.MD)

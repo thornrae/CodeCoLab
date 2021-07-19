@@ -11,7 +11,7 @@
 | [Clement Buchanan](https://github.com/ClementBuchanan) | Project Manager   |
 | [Taylor Thorton](https://github.com/thornrae)          | Code CoLaborator  |
 | [Kale Lesko](https://github.com/Saynka)                | Code CoLaborator  |
-| [Terrence Jamal Simms](https://github.com/tjsimms)     | Code CoLaborator  |
+| [Terrence Jamal Simms](https://github.com/tjsomega)    | Code CoLaborator  |
 
 ### Planning
 
@@ -132,3 +132,5 @@ Our team’s Git workflow for coding tasks will be as follows:
     ![Code CoLab Wireframe](assets/Code_CoLab_Wireframe.jpg)
 
   - Database Schema (Google Docs)
+
+[Back to README.MD](../README.MD)
