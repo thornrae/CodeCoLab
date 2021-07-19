@@ -43,7 +43,7 @@ As junior developers we often find ourselves at a loss for solving code. We ofte
 
 ### Links to final prep docs
 
-- [401 Final prep #1](401_Final_Prep_1.md)
-- [401 Final Prep #2](401_Final_Prep_2.md)
-- [401 Final Prep #3](401_Final_Prep_3.md)
-- [401 Final Prep #4](401_Final_Prep_4.md)
+- [401 Final prep #1](docs/401_Final_Prep_1.md)
+- [401 Final Prep #2](docs/401_Final_Prep_2.md)
+- [401 Final Prep #3](docs/401_Final_Prep_3.md)
+- [401 Final Prep #4](docs/401_Final_Prep_4.md)
