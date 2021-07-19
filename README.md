@@ -15,11 +15,7 @@ Code CoLab
 | [Clement Buchanan](https://github.com/ClementBuchanan) | Project Manager   |
 | [Taylor Thorton](https://github.com/thornrae)          | Code CoLaborator  |
 | [Kale Lesko](https://github.com/Saynka)                | Code CoLaborator  |
-| [Terrence Jamal Simms](https://github.com/tjsimms)     | Code CoLaborator  |
-
-### The name of our project is
-
-Code CoLab
+| [Terrence Jamal Simms](https://github.com/tjsomega)    | Code CoLaborator  |
 
 ### Project Summary
 
@@ -31,11 +27,13 @@ As junior developers we often find ourselves at a loss for solving code. We ofte
 1. Users can chat with other developers in the Code CoLab room as they work through problems
 1. Users can "star" important communication shared in the chat to be saved as a resource for that problem
 
-### Links to Code CoLab Mockup and Wireframe
+### Links to Code CoLab UML Mockup and Wireframe Mockup
 
-[Code CoLab Mockup](assets/Code_CoLab_Mockup.jpg)
+[Code CoLab UML Mockup](assets/Code_CoLab_Mockup.jpg)
 
-[Code CoLab Wireframe](assets/Code_CoLab_Wireframe.jpg)
+[Code CoLab Wireframe Mockup](assets/Code_CoLab_Wireframe.jpg)
+
+[Database Schema Diagram](assets/Code_CoLab_Wireframe.jpg)
 
 ### Link to Trello PM tool
 
@@ -47,3 +45,5 @@ As junior developers we often find ourselves at a loss for solving code. We ofte
 - [401 Final Prep #2](docs/401_Final_Prep_2.md)
 - [401 Final Prep #3](docs/401_Final_Prep_3.md)
 - [401 Final Prep #4](docs/401_Final_Prep_4.md)
+  - [User stories](docs/user_stories.md)
+  - [Software requirements](docs/requirements.md)
