@@ -1,12 +1,25 @@
 # 401 Final Group Project Team Agreement
 
-## Project Title: Code CoLab
+## Project Title
 
-## Group Name: Code CoLab
+Code CoLab
 
-## Team Members: Clement Buchanan, Taylor Thorton, Kale Lesko and Terrence Jamal Simms
+## Group Name
 
-### The name of our project is: Code CoLab
+Code CoLab
+
+## Team Members
+
+| Team Member                                            | Contributing Role |
+| ------------------------------------------------------ | ----------------- |
+| [Clement Buchanan](https://github.com/ClementBuchanan) | Project Manager   |
+| [Taylor Thorton](https://github.com/thornrae)          | Code CoLaborator  |
+| [Kale Lesko](https://github.com/Saynka)                | Code CoLaborator  |
+| [Terrence Jamal Simms](https://github.com/tjsimms)     | Code CoLaborator  |
+
+### The name of our project is
+
+Code CoLab
 
 ### Project Summary
 
@@ -16,16 +29,21 @@ As junior developers we often find ourselves at a loss for solving code. We ofte
 1. Users to join active Code CoLab rooms
 1. Users can create new Code CoLab rooms and select questions to work on
 1. Users can chat with other developers in the Code CoLab room as they work through problems
-1. Users can "star" important communication shared in the chat to be stored as a resource for that problem
+1. Users can "star" important communication shared in the chat to be saved as a resource for that problem
 
-### Code CoLab Mockup and Wireframe
+### Links to Code CoLab Mockup and Wireframe
 
-Code CoLab Mockup
-![Code CoLab Mockup](assets/Code_CoLab_Mockup.jpg)
+[Code CoLab Mockup](assets/Code_CoLab_Mockup.jpg)
 
-Code CoLab Wireframe
-![Code CoLab Wireframe](assets/Code_CoLab_Wireframe.jpg)
+[Code CoLab Wireframe](assets/Code_CoLab_Wireframe.jpg)
 
-### Links to Trello PM tool
+### Link to Trello PM tool
 
 [Trello board](https://trello.com/b/N2BCOzKw/code-colab)
+
+### Links to final prep docs
+
+- [401 Final prep #1](401_Final_Prep_1.md)
+- [401 Final Prep #2](401_Final_Prep_2.md)
+- [401 Final Prep #3](401_Final_Prep_3.md)
+- [401 Final Prep #4](401_Final_Prep_4.md)
