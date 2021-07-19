@@ -4,7 +4,14 @@
 
 ## Group Name: Code CoLab
 
-## Team Members: Clement Buchanan, Taylor Thorton, Kale Lesko, Terrence Jamal Simms
+## Team Members
+
+| Team Member                                            | Contributing Role |
+| ------------------------------------------------------ | ----------------- |
+| [Clement Buchanan](https://github.com/ClementBuchanan) | Project Manager   |
+| [Taylor Thorton](https://github.com/thornrae)          | Code CoLaborator  |
+| [Kale Lesko](https://github.com/Saynka)                | Code CoLaborator  |
+| [Terrence Jamal Simms](https://github.com/tjsimms)     | Code CoLaborator  |
 
 ### Planning
 
@@ -109,10 +116,10 @@ Our team’s Git workflow for coding tasks will be as follows:
 
 ### Links to other final prep docs
 
-- [401 Final prep #1 (Google Docs)](https://docs.google.com/document/d/1x5nx1dsireOfUf8bVI3Db1VwDRCf0rmI21fl8t-WFC8/edit?usp=sharing)
-- [401 Final Prep #2 (Google Docs)](https://docs.google.com/document/d/1yiJSPurSGhpdssp6kImxC14yyHFLnT8lFbcYUet1yAY/edit?usp=sharing)
-- [401 Final Prep #3 (Google Docs)](https://docs.google.com/document/d/1eCR3BD6hqEt-e03VtSnN5DgyLnaNw0M3ahjAEqQ9Q84/edit?usp=sharing)
-- [401 Final Prep #4 (Google Docs)](https://docs.google.com/document/d/1yrhVfLq3wdmFgv3zIlu91TxiUnZ1NzPLXX2noyQbMDI/edit?usp=sharing)
+- [401 Final prep #1](401_Final_Prep_1.md)
+- [401 Final Prep #2](401_Final_Prep_2.md)
+- [401 Final Prep #3](401_Final_Prep_3.md)
+- [401 Final Prep #4](401_Final_Prep_4.md)
 
   - User Stories
   - Software Requirements
