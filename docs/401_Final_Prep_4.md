@@ -2,52 +2,37 @@
 
 ## Wireframes and UML
 
-- Terrence have completed the wireframes for each page in your application. Using Miro - Wireframe will be "Homepage", "Questions Page", and About us Page"
+- Terrence have completed the wireframes for each page in our application. Using Miro - Wireframe will be "Homepage", "Questions Page", and About us Page"
 - UML was done by Terrence. Clement will update the design NLT Monday
 - Clement, Terrence and Kale will document the description of the UML to be completed NLT Monday
 
 ## Tasks
 
-- Clement have provide an image of the wireframes in the readme of our project.
+- Clement have provide an image of the wireframe and the UML in the readme of our project.
 
 ## User Stories
 
-Start out by creating at least 5 user stories for your approved project. The outline/requirements for user stories can be found HERE
-Each story in your project management board should contain:
-Title
-User Story sentence
+We've creted 5 user stories for our approved project. Following the outline/requirements each story in our project management board will contain:
 
-## Feature Tasks
+- Title
+- User Story sentence
+- Feature task
+- Acceptance test
 
-## Acceptance Tests
-
-Provide a link to your project management board that contains your user stories in your project Readme.
+A link to the PM board (Trello) will be in the readme.md.
 
 ## Software Requirements
 
-Using the Software Requirements Document, create a new file within your main GH repo named requirements.md. Include in this doc the required information for your software reqs for your project as a whole.
+Based on the software requirement docunentation a new file within our main GitHub repo named requirements.md was created. Included in this doc are the required information for our software reqs for our project as a whole.
 
 ## Domain Modeling
 
-Draw out the entities for your project and how they are related to each other. Determine the relationships between the functions/methods and entities of your app.
-Include in your domain model the names and data types of your entities and their properties.
-Do some research on domain modeling and create your own diagram that represents your app. Here are some helpful resources as a starting point:
-Brief introduction to Domain Modeling
+- Terrence drew out the entities for our project and how they are related to each other. Together we have all determined the relationships between the functions/methods and entities of our app.
+- We have included the names and data types of the entities and their properties.
 
-## Domain Modeling
+## Domain Model
 
-- Domain driven architecture diagram
-- Include this domain model in the README.md file located in your project’s GitHub repo.
-  Using a Database? Make an Database Schema Diagram
-- If you are using a database of any kind in your project, draft out what your schema will look like by creating a diagram of all your application data models, each in it’s own collection (or table).
-- Be sure to identify the relationships (if any) between each of your data models:
-  Does a single item in your database “belong to” just one other item in your database? For example, a person has one passport, and a passport belongs to a single person.
-  Does a item in your database “belong to” multiple other items in your database? For example, a house has many residents, and each resident has one primary house.
-  Do many items in your database relate to many other items in your database? For example, a band has many musicians, and a musician can be in many bands.
-  Also, include for each seperate collection:
-  The name of each property stored in the collection.
-  The required data type.
-  An indication if this collection is associated with another collection.
-  Include this diagram in your readme, accompanied by an explanation of each data model and it’s responsibility in the application.
+- Domain model diagram will be included in the README.md file located in our project’s GitHub repo.
+- A database schema diagram will be included as wella and accompanied by an explanation of each data model and it’s responsibility in the application.
 
 [Bark to README.MD](../README.MD)
